@@ -1,5 +1,10 @@
 # Results
 
+This is an exercise of the book _The Go Programming Language,
+by Alan A. A. Donovan and Brian Kernighan_.
+
+Comparison between different versions of the `echo` program.
+
 ## Version 1
 
 This approach is simply iterating over the arguments provided,
